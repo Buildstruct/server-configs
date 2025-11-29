@@ -1,0 +1,109 @@
+title = "Map Sweepers"
+
+[server]
+gamemode = "mapsweepers"
+map = "gm_construct"
+host_workshop_collection = "<collection_id>"
+
+maps = [
+	"gm_construct",
+	"jcms_jcorpdistrict",
+	"jcms_mafiadistrict",
+]
+
+[[addons]]
+type = "github"
+folder = "mapsweepers"
+url = "https://github.com/MerekiDor/mapsweepers.git"
+branch = "main"
+
+[[collections]]
+id = "<collection_id>"
+title = "Gamestruct - Map Sweepers"
+description = "Server content for Gamestruct."
+
+[[collections.items]]
+id = "3418655530"
+maps = ["gm_citygateway", "gm_citygateway_night"]
+
+[[collections.items]]
+id = "1647227674"
+maps = ["gm_diprip_refinery"]
+
+[[collections.items]]
+id = "2936813669"
+maps = ["gm_born"]
+
+[[collections.items]]
+id = "104488112"
+maps = ["gm_lair"]
+
+[[collections.items]]
+id = "3423704682" # gm_lair navmesh
+
+[[collections.items]]
+id = "3398021516"
+maps = ["gm_shattered_reality"]
+
+[[collections.items]]
+id = "3503022666"
+maps = ["gm_voidtown"]
+
+[[collections.items]]
+id = "3355782499"
+maps = ["gm_hillfoot_construct"]
+
+[[collections.items]]
+id = "2793118426"
+maps = ["gm_coast_bridge_prewar"]
+
+[[collections.items]]
+id = "1340990466"
+maps = ["gm_vj_cityatwar"]
+
+[[collections.items]]
+id = "1988531993" # gm_vj_cityatwar navmesh
+
+[[collections.items]]
+id = "503138986" # Serious Sam 2 SWEPs
+download = true
+
+[[collections.items]]
+id = "128089118" # M9K Assault Rifles
+download = true
+
+[[collections.items]]
+id = "128093075" # M9K Small Arms
+download = true
+
+[[collections.items]]
+id = "128091208" # M9K Heavy Weapons
+download = true
+
+[[collections.items]]
+id = "3208351074" # M9K Specialties
+download = true
+
+[[collections.items]]
+id = "210267782" # DOOM 3 SWEPs
+download = true
+
+[[collections.items]]
+id = "420970650" # Darken217's SciFi Weapons
+download = true
+
+[[collections.items]]
+id = "123277559" # Nyan Gun
+download = true
+
+[[collections.items]]
+id = "827320827" # M1A0 Cat Gun
+download = true
+
+[[collections.items]]
+id = "3319008828" # Newtonian Physgun
+download = true
+
+[[collections.items]]
+id = "3606384767" # HOPIUM
+download = true

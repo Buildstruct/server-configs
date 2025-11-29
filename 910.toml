@@ -1,0 +1,21 @@
+title = "Nine Tenths"
+
+[server]
+gamemode = "910"
+map = "910_legacy"
+
+[[addons]]
+type = "github"
+folder = "910"
+url = "https://github.com/figardo/910.git"
+branch = "main"
+maps = [
+	"910_4land",
+	"910_compound",
+	"910_ctf",
+	"910_grandtheftauto",
+	"910_legacy",
+	"910_possession",
+	"910_scramble",
+	"910_smash",
+]

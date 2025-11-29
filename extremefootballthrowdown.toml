@@ -1,0 +1,51 @@
+title = "Extreme Football Throwdown"
+
+[server]
+gamemode = "extremefootballthrowdown"
+map = "eft_albino"
+host_workshop_collection = "<collection_id>"
+
+[[addons]]
+type = "github"
+folder = "extremefootballthrowdown"
+url = "https://github.com/JetBoom/extremefootballthrowdown.git"
+branch = "master"
+
+[[collections]]
+id = "<collection_id>"
+title = "Gamestruct - Extreme Football Throwdown"
+description = "Server content for Gamestruct."
+
+[[collections.items]]
+id = "244859331" # Extreme Football Throwdown Map Pack
+maps = [
+	"eft_albino",
+	"eft_big_metal03r1",
+	"eft_bloodbowlb",
+	"eft_brokenbonesbridge_v1fix",
+	"eft_castle_warfare",
+	"eft_chamber",
+	"eft_coconutclub_01",
+	"eft_handegg",
+	"eft_minecraftv2fixed",
+	"eft_sky_metal_beta3",
+	"eft_skystep_v3",
+	"eft_soccer_b1",
+	"eft_spacejump_b2",
+	"eft_temple_sacrifice_rc",
+	"eft_tunnel",
+	"eft_turbines_v2",
+	"xft_skyline_v2",
+]
+
+[[collections.items]]
+id = "189289375"
+maps = ["xft_skyteenagers_spartv"]
+
+[[collections.items]]
+id = "579589507"
+maps = ["eft_streetball_v6"]
+
+[[collections.items]]
+id = "493032732"
+maps = ["eft_hexa_v5"]

@@ -1,0 +1,55 @@
+title = "Sandbox"
+
+[server]
+gamemode = "sandbox"
+map = "gm_buildstruct"
+host_workshop_collection = "<collection_id>"
+
+maps = []
+
+[[addons]]
+type = "github"
+folder = "buildstruct-custom-content"
+url = "https://github.com/Buildstruct/buildstruct-custom-content.git"
+branch = "main"
+
+[[addons]]
+type = "github"
+folder = "wire"
+url = "https://github.com/Buildstruct/wire.git"
+branch = "master"
+
+[[addons]]
+type = "github"
+folder = "starfallex"
+url = "https://github.com/Buildstruct/StarfallEx.git"
+branch = "master"
+
+[[addons]]
+type = "github"
+folder = "pac3"
+url = "https://github.com/Buildstruct/pac3.git"
+branch = "develop"
+
+[[addons]]
+type = "github"
+folder = "acf3"
+url = "https://github.com/Buildstruct/ACF-3.git"
+branch = "master"
+
+[[addons]]
+type = "github"
+folder = "acf3missiles"
+url = "https://github.com/Buildstruct/ACF-3-Missiles.git"
+branch = "master"
+
+[[collections]]
+id = "<collection_id>"
+title = "Buildstruct Server Content"
+description = "Server content for Buildstruct."
+linked = [
+	"<collection_id_2>",
+	"<collection_id_3>",
+	"<collection_id_4>",
+	"<collection_id_5>",
+]

@@ -1,0 +1,49 @@
+# nice name of the server config
+title = "My Cool Server"
+
+# actual server settings
+[server]
+gamemode = "sandbox" # the default gamemode
+map = "gm_flatgrass" # the default map
+maxplayers = 32 # the max player slots
+host_workshop_collection = "<collection_id>" # the workshop collection used by the server
+
+# list of available maps
+# this is merged with all maps keys below so duplication of values is not necessary (maps, addons[i].maps, collections[i].items[i].maps)
+# this is not used by the server setup, it is useful if you need a list of maps and want it organized by addon/item
+maps = [
+	"gm_construct",
+	"gm_flatgrass",
+]
+
+# list of folder addons that will be placed in garrysmod/addons
+[[addons]]
+type = "github"
+folder = "wire" # garrysmod/addons/wire
+url = "https://github.com/Buildstruct/wire.git"
+branch = "master" # only this branch will be cloned (if this is not set, all branches will be cloned and the default will be selected)
+
+[[addons]]
+type = "fixme"
+folder = "my_maps"
+maps = ["gm_cool"]
+
+# list of workshop collections that will be synced
+[[collections]]
+id = "<collection_id>"
+title = "My Cool Server Content"
+description = "Server content for my cool server."
+linked = ["<collection_id_2>"] # link other collections to this collection
+
+# list of workshop items in the collection (order will be kept)
+[[collections.items]]
+id = "105982362"
+maps = ["gm_bigcity"]
+
+[[collections.items]]
+id = "815782148"
+maps = ["gm_bigcity_improved"]
+
+[[collections.items]]
+id = "123277559" # Nyan Gun
+download = true # mark this item to be automatically downloaded by clients

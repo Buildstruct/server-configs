@@ -1,0 +1,12 @@
+title = "Jazztronauts"
+
+[server]
+gamemode = "jazztronauts"
+map = "jazz_bar"
+
+[[addons]]
+type = "github"
+folder = "jazztronauts"
+url = "https://github.com/SageJFox/jazztronauts.git"
+branch = "sceneroots"
+maps = ["jazz_bar"] # there are other maps but they shouldn't be directly available to players
