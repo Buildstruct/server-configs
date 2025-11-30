@@ -107,3 +107,6 @@ download = true
 [[collections.items]]
 id = "3606384767" # HOPIUM
 download = true
+
+[[collections.items]]
+id = "2977785840" # Clientside Hitreg
