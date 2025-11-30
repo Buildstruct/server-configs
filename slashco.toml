@@ -1,0 +1,12 @@
+title = "SlashCo"
+
+[server]
+gamemode = "slashco"
+map = "sc_lobby"
+
+[[addons]]
+type = "github"
+folder = "slashco"
+url = "https://github.com/Mantibro/SlashCo.git"
+branch = "beta"
+maps = ["sc_lobby"]
