@@ -1,0 +1,11 @@
+title = "Tobey Maguire's Pizza Delivery Deathmatch"
+
+[server]
+gamemode = "tmpddm"
+map = "gm_bigcity"
+
+[[addons]]
+type = "github"
+folder = "tmpddm"
+url = "https://github.com/TomatoCo/tmpddm.git"
+branch = "master"
