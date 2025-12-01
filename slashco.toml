@@ -10,3 +10,44 @@ folder = "slashco"
 url = "https://github.com/Mantibro/SlashCo.git"
 branch = "beta"
 maps = ["sc_lobby"]
+
+[[collections]]
+id = "<collection_id>"
+title = "Gamestruct - SlashCo"
+description = "Server content for Gamestruct."
+
+[[collections.items]]
+id = "2844081496"
+maps = ["sc_summercamp"]
+
+[[collections.items]]
+id = "2844082996"
+maps = ["sc_highschool"]
+
+[[collections.items]]
+id = "2856197297"
+maps = ["sc_hospital"]
+
+[[collections.items]]
+id = "2954492599"
+maps = ["sc_redforest"]
+
+[[collections.items]]
+id = "2981462975"
+maps = ["sc_asylum"]
+
+[[collections.items]]
+id = "3276058547"
+maps = ["sc_trainingcenter"]
+
+[[collections.items]]
+id = "3296523451"
+maps = ["sc_deadcity"]
+
+[[collections.items]]
+id = "3327358109"
+maps = ["sc_downtown_v2"]
+
+[[collections.items]]
+id = "3432479487"
+maps = ["sc_insertion2"]
