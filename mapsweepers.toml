@@ -3,7 +3,7 @@ title = "Map Sweepers"
 [server]
 gamemode = "mapsweepers"
 map = "gm_construct"
-host_workshop_collection = "<collection_id>"
+host_workshop_collection = "3613062202"
 
 maps = [
 	"gm_construct",
@@ -18,7 +18,7 @@ url = "https://github.com/MerekiDor/mapsweepers.git"
 branch = "main"
 
 [[collections]]
-id = "<collection_id>"
+id = "3613062202"
 title = "Gamestruct - Map Sweepers"
 description = "Server content for Gamestruct."
 

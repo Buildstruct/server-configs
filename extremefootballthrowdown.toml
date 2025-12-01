@@ -3,7 +3,7 @@ title = "Extreme Football Throwdown"
 [server]
 gamemode = "extremefootballthrowdown"
 map = "eft_albino"
-host_workshop_collection = "<collection_id>"
+host_workshop_collection = "3613047573"
 
 [[addons]]
 type = "github"
@@ -12,7 +12,7 @@ url = "https://github.com/JetBoom/extremefootballthrowdown.git"
 branch = "master"
 
 [[collections]]
-id = "<collection_id>"
+id = "3613047573"
 title = "Gamestruct - Extreme Football Throwdown"
 description = "Server content for Gamestruct."
 

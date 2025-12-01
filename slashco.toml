@@ -3,6 +3,7 @@ title = "SlashCo"
 [server]
 gamemode = "slashco"
 map = "sc_lobby"
+host_workshop_collection = "3615706861"
 
 [[addons]]
 type = "github"
@@ -12,7 +13,7 @@ branch = "beta"
 maps = ["sc_lobby"]
 
 [[collections]]
-id = "<collection_id>"
+id = "3615706861"
 title = "Gamestruct - SlashCo"
 description = "Server content for Gamestruct."
 
