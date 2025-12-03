@@ -23,6 +23,12 @@ title = "Gamestruct - Map Sweepers"
 description = "Server content for Gamestruct."
 
 [[collections.items]]
+id = "3555484822" # [Map Sweepers] Dedicated-Server-Extension
+
+[[collections.items]]
+id = "2977785840" # Clientside Hitreg
+
+[[collections.items]]
 id = "3418655530"
 maps = ["gm_citygateway", "gm_citygateway_night"]
 
@@ -35,6 +41,21 @@ id = "2936813669"
 maps = ["gm_born"]
 
 [[collections.items]]
+id = "2793118426"
+maps = ["gm_coast_bridge_prewar"]
+
+[[collections.items]]
+id = "156992404"
+maps = ["gm_excess_island_night"]
+
+[[collections.items]]
+id = "3451317468" # gm_excess_island_night navmesh
+
+[[collections.items]]
+id = "3355782499"
+maps = ["gm_hillfoot_construct"]
+
+[[collections.items]]
 id = "104488112"
 maps = ["gm_lair"]
 
@@ -42,20 +63,59 @@ maps = ["gm_lair"]
 id = "3423704682" # gm_lair navmesh
 
 [[collections.items]]
+id = "3003051292"
+maps = ["gm_liminal_space"]
+
+[[collections.items]]
+id = "878761545"
+maps = ["gm_marsh"]
+
+[[collections.items]]
+id = "3026921669" # gm_marsh navmesh
+
+[[collections.items]]
+id = "2821234125"
+maps = ["gm_obselisk"]
+
+[[collections.items]]
+id = "3020385572"
+maps = ["gm_oxidation"]
+
+[[collections.items]]
+id = "3020861395" # gm_oxidation navmesh
+
+[[collections.items]]
+id = "2880336126"
+maps = ["gm_realpark_final3"]
+
+[[collections.items]]
+id = "3027825189" # gm_realpark_final3 navmesh
+
+[[collections.items]]
+id = "151544081"
+maps = ["gm_shambles"]
+
+[[collections.items]]
+id = "3030972724" # gm_shambles navmesh
+
+[[collections.items]]
+id = "2964699758"
+maps = ["gm_silicon_city"]
+
+[[collections.items]]
 id = "3398021516"
 maps = ["gm_shattered_reality"]
 
 [[collections.items]]
+id = "104483504"
+maps = ["gm_valley"]
+
+[[collections.items]]
+id = "3525399315" # gm_valley navmesh
+
+[[collections.items]]
 id = "3503022666"
 maps = ["gm_voidtown"]
-
-[[collections.items]]
-id = "3355782499"
-maps = ["gm_hillfoot_construct"]
-
-[[collections.items]]
-id = "2793118426"
-maps = ["gm_coast_bridge_prewar"]
 
 [[collections.items]]
 id = "1340990466"
@@ -65,27 +125,14 @@ maps = ["gm_vj_cityatwar"]
 id = "1988531993" # gm_vj_cityatwar navmesh
 
 [[collections.items]]
-id = "503138986" # Serious Sam 2 SWEPs
-download = true
+id = "2381557019"
+maps = ["rp_jupiter_underground"]
 
 [[collections.items]]
-id = "128089118" # M9K Assault Rifles
-download = true
+id = "3290161512" # rp_jupiter_underground navmesh
 
 [[collections.items]]
-id = "128093075" # M9K Small Arms
-download = true
-
-[[collections.items]]
-id = "128091208" # M9K Heavy Weapons
-download = true
-
-[[collections.items]]
-id = "3208351074" # M9K Specialties
-download = true
-
-[[collections.items]]
-id = "210267782" # DOOM 3 SWEPs
+id = "349050451" # Chuck's Weaponry 2.0
 download = true
 
 [[collections.items]]
@@ -93,15 +140,7 @@ id = "420970650" # Darken217's SciFi Weapons
 download = true
 
 [[collections.items]]
-id = "123277559" # Nyan Gun
-download = true
-
-[[collections.items]]
-id = "827320827" # M1A0 Cat Gun
-download = true
-
-[[collections.items]]
-id = "3319008828" # Newtonian Physgun
+id = "210267782" # DOOM 3 SWEPs
 download = true
 
 [[collections.items]]
@@ -109,4 +148,33 @@ id = "3606384767" # HOPIUM
 download = true
 
 [[collections.items]]
-id = "2977785840" # Clientside Hitreg
+id = "827320827" # M1A0 Cat Gun
+download = true
+
+[[collections.items]]
+id = "128089118" # M9K Assault Rifles
+download = true
+
+[[collections.items]]
+id = "128091208" # M9K Heavy Weapons
+download = true
+
+[[collections.items]]
+id = "128093075" # M9K Small Arms
+download = true
+
+[[collections.items]]
+id = "3208351074" # M9K Specialties [Fixed]
+download = true
+
+[[collections.items]]
+id = "3319008828" # Newtonian Physgun
+download = true
+
+[[collections.items]]
+id = "123277559" # Nyan Gun
+download = true
+
+[[collections.items]]
+id = "503138986" # Serious Sam 2 SWEPs
+download = true
