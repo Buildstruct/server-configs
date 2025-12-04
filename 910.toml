@@ -2,7 +2,6 @@ title = "Nine Tenths"
 
 [server]
 gamemode = "910"
-map = "910_legacy"
 
 [[addons]]
 type = "github"
