@@ -24,9 +24,8 @@ url = "https://github.com/Buildstruct/wire.git"
 branch = "master" # only this branch will be cloned (if this is not set, all branches will be cloned and the default will be selected)
 
 [[addons]]
-type = "fixme"
-folder = "my_maps"
-maps = ["gm_cool"]
+type = "other"
+folder = "custom"
 
 # list of workshop collections that will be synced
 [[collections]]
