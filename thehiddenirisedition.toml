@@ -1,0 +1,49 @@
+title = "The Hidden: I.R.I.S Edition"
+
+[server]
+gamemode = "thehiddenirisedition"
+map = "gm_construct"
+host_workshop_collection = "3617540717"
+
+[[collections]]
+id = "3617540717"
+title = "Gamestruct - The Hidden: I.R.I.S Edition"
+description = "Server content for Gamestruct."
+
+[[collections.items]]
+id = "3047746641" # The Hidden: I.R.I.S Edition
+maps = [
+	"hdn_apartment",
+	"hdn_deadmeatb4b",
+	"hdn_decay",
+	"hdn_decrepit_v3",
+	"hdn_deltalab_b2",
+	"hdn_derelict",
+	"hdn_discovery",
+	"hdn_docks",
+	"hdn_downtown",
+	"hdn_eminence",
+	"hdn_executive",
+	"hdn_facility",
+	"hdn_forsaken_b4a",
+	"hdn_highrise",
+	"hdn_kindergarten",
+	"hdn_laboratory",
+	"hdn_luxury_beta2",
+	"hdn_lv426_b1",
+	"hdn_manor_b4a",
+	"hdn_origin",
+	"hdn_ravenholm_v2",
+	"hdn_sewers",
+	"hdn_stalkyard",
+	"hdn_station5_b3",
+	"hdn_suburb_b9k",
+	"hdn_tanqua",
+	"hdn_toxic",
+	"hdn_traindepot",
+	"hdn_veikko",
+	"hdn_watershed_b3_hotfix",
+]
+
+[[collections.items]]
+id = "2977785840" # Clientside Hitreg
