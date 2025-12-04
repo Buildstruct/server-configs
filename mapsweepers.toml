@@ -107,13 +107,6 @@ id = "3398021516"
 maps = ["gm_shattered_reality"]
 
 [[collections.items]]
-id = "104483504"
-maps = ["gm_valley"]
-
-[[collections.items]]
-id = "3525399315" # gm_valley navmesh
-
-[[collections.items]]
 id = "3503022666"
 maps = ["gm_voidtown"]
 
@@ -123,13 +116,6 @@ maps = ["gm_vj_cityatwar"]
 
 [[collections.items]]
 id = "1988531993" # gm_vj_cityatwar navmesh
-
-[[collections.items]]
-id = "2381557019"
-maps = ["rp_jupiter_underground"]
-
-[[collections.items]]
-id = "3290161512" # rp_jupiter_underground navmesh
 
 [[collections.items]]
 id = "349050451" # Chuck's Weaponry 2.0
