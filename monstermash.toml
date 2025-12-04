@@ -14,7 +14,7 @@ id = "1541525700" # Monster Mash
 
 [[collections.items]]
 id = "1528995135"
-maps = ["mm_harvest"]
+maps = ["mm_harvest_v1", "mm_harvest_night"]
 
 [[collections.items]]
 id = "1538691772"
@@ -30,11 +30,11 @@ maps = ["mm_rot"]
 
 [[collections.items]]
 id = "3054101759"
-maps = ["mm_excrescentia"]
+maps = ["mm_excrescentia_final"]
 
 [[collections.items]]
 id = "3596629218"
-maps = ["mm_trickery"]
+maps = ["mm_trickery_final"]
 
 [[collections.items]]
 id = "2977785840" # Clientside Hitreg
