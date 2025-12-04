@@ -29,12 +29,6 @@ title = "Gamestruct - Map Sweepers"
 description = "Server content for Gamestruct."
 
 [[collections.items]]
-id = "3555484822" # [Map Sweepers] Dedicated-Server-Extension
-
-[[collections.items]]
-id = "2977785840" # Clientside Hitreg
-
-[[collections.items]]
 id = "3418655530"
 maps = ["gm_citygateway", "gm_citygateway_night"]
 
@@ -122,6 +116,12 @@ maps = ["gm_vj_cityatwar"]
 
 [[collections.items]]
 id = "1988531993" # gm_vj_cityatwar navmesh
+
+[[collections.items]]
+id = "3555484822" # [Map Sweepers] Dedicated-Server-Extension
+
+[[collections.items]]
+id = "2977785840" # Clientside Hitreg
 
 [[collections.items]]
 id = "349050451" # Chuck's Weaponry 2.0
