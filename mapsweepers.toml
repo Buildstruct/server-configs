@@ -17,6 +17,12 @@ folder = "mapsweepers"
 url = "https://github.com/MerekiDor/mapsweepers.git"
 branch = "main"
 
+[[addons]]
+type = "github"
+folder = "mapsweepers-extras"
+url = "https://github.com/Buildstruct/mapsweepers-extras.git"
+branch = "main"
+
 [[collections]]
 id = "3613062202"
 title = "Gamestruct - Map Sweepers"
