@@ -2,7 +2,7 @@ title = "Extreme Football Throwdown"
 
 [server]
 gamemode = "extremefootballthrowdown"
-host_workshop_collection = "3613047573"
+host_workshop_collection = 3613047573
 
 [[addons]]
 type = "github"
@@ -11,12 +11,12 @@ url = "https://github.com/JetBoom/extremefootballthrowdown.git"
 branch = "master"
 
 [[collections]]
-id = "3613047573"
+id = 3613047573
 title = "Gamestruct - Extreme Football Throwdown"
 description = "Server content for Gamestruct."
 
 [[collections.items]]
-id = "244859331" # Extreme Football Throwdown Map Pack
+id = 244859331 # Extreme Football Throwdown Map Pack
 maps = [
 	"eft_albino",
 	"eft_big_metal03r1",
@@ -38,13 +38,13 @@ maps = [
 ]
 
 [[collections.items]]
-id = "189289375"
+id = 189289375
 maps = ["xft_skyteenagers_spartv"]
 
 [[collections.items]]
-id = "579589507"
+id = 579589507
 maps = ["eft_streetball_v6"]
 
 [[collections.items]]
-id = "493032732"
+id = 493032732
 maps = ["eft_hexa_v5"]

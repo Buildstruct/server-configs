@@ -2,7 +2,7 @@ title = "Sacrifun"
 
 [server]
 gamemode = "sacrifun"
-host_workshop_collection = "821019109"
+host_workshop_collection = 821019109
 
 [[addons]]
 type = "github"
@@ -11,6 +11,6 @@ url = "https://github.com/Zet0rz/Sacrifun.git"
 branch = "master"
 
 [[collections]]
-id = "821019109"
+id = 821019109
 title = "Gamestruct - Sacrifun"
 description = "Server content for Gamestruct."

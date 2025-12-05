@@ -6,7 +6,7 @@ title = "My Cool Server"
 gamemode = "sandbox" # the default gamemode
 map = "gm_flatgrass" # the default map
 maxplayers = 32 # the max player slots
-host_workshop_collection = "<collection_id>" # the workshop collection used by the server
+host_workshop_collection = 1234567890 # the workshop collection used by the server
 
 # list of available maps
 # this is merged with all maps keys below so duplication of values is not necessary (maps, addons[i].maps, collections[i].items[i].maps)
@@ -29,20 +29,20 @@ folder = "custom"
 
 # list of workshop collections that will be synced
 [[collections]]
-id = "<collection_id>"
+id = 1234567890
 title = "My Cool Server Content"
 description = "Server content for my cool server."
-linked = ["<collection_id_2>"] # link other collections to this collection
+linked = [9876543210] # link other collections to this collection
 
 # list of workshop items in the collection (order will be kept)
 [[collections.items]]
-id = "105982362"
+id = 105982362
 maps = ["gm_bigcity"]
 
 [[collections.items]]
-id = "815782148"
+id = 815782148
 maps = ["gm_bigcity_improved"]
 
 [[collections.items]]
-id = "123277559" # Nyan Gun
+id = 123277559 # Nyan Gun
 download = true # mark this item to be automatically downloaded by clients

@@ -3,7 +3,7 @@ title = "Sandbox"
 [server]
 gamemode = "sandbox"
 map = "gm_buildstruct"
-host_workshop_collection = "<collection_id>"
+host_workshop_collection = 1234567890
 
 maps = []
 
@@ -44,12 +44,6 @@ url = "https://github.com/Buildstruct/ACF-3-Missiles.git"
 branch = "master"
 
 [[collections]]
-id = "<collection_id>"
+id = 1234567890
 title = "Buildstruct Server Content"
 description = "Server content for Buildstruct."
-linked = [
-	"<collection_id_2>",
-	"<collection_id_3>",
-	"<collection_id_4>",
-	"<collection_id_5>",
-]

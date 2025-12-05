@@ -2,15 +2,15 @@ title = "The Hidden: I.R.I.S Edition"
 
 [server]
 gamemode = "thehiddenirisedition"
-host_workshop_collection = "3617540717"
+host_workshop_collection = 3617540717
 
 [[collections]]
-id = "3617540717"
+id = 3617540717
 title = "Gamestruct - The Hidden: I.R.I.S Edition"
 description = "Server content for Gamestruct."
 
 [[collections.items]]
-id = "3047746641" # The Hidden: I.R.I.S Edition
+id = 3047746641 # The Hidden: I.R.I.S Edition
 maps = [
 	"hdn_apartment",
 	"hdn_deadmeatb4b",
@@ -45,4 +45,4 @@ maps = [
 ]
 
 [[collections.items]]
-id = "2977785840" # Clientside Hitreg
+id = 2977785840 # Clientside Hitreg
