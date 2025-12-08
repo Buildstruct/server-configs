@@ -8,3 +8,7 @@ map = "gm_bigcity"
 folder = "tmpddm"
 url = "https://github.com/TomatoCo/tmpddm.git"
 branch = "master"
+
+[[addons]]
+id = 105982362
+maps = ["gm_bigcity"]
