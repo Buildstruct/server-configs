@@ -2,7 +2,6 @@ title = "Sacrifun"
 
 [server]
 gamemode = "sacrifun"
-host_workshop_collection = 821019109
 
 [[addons]]
 folder = "sacrifun"

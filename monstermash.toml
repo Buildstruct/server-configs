@@ -2,7 +2,6 @@ title = "Monster Mash"
 
 [server]
 gamemode = "monstermash"
-host_workshop_collection = 3617554051
 
 [[addons]]
 id = 1541525700 # Monster Mash

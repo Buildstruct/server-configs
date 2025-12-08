@@ -6,7 +6,6 @@ title = "My Cool Server"
 gamemode = "sandbox" # the default gamemode
 map = "gm_flatgrass" # the default map
 maxplayers = 32 # the max player slots
-host_workshop_collection = 1234567890 # the workshop collection used by the server
 
 # list of available maps
 # this is merged with all maps keys below so duplication of values is not necessary (maps, addons[i].maps)

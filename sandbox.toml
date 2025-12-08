@@ -3,7 +3,6 @@ title = "Sandbox"
 [server]
 gamemode = "sandbox"
 map = "gm_buildstruct"
-host_workshop_collection = 1234567890
 
 [[addons]]
 folder = "buildstruct-custom-content"

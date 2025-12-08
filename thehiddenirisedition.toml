@@ -2,7 +2,6 @@ title = "The Hidden: I.R.I.S Edition"
 
 [server]
 gamemode = "thehiddenirisedition"
-host_workshop_collection = 3617540717
 
 [[addons]]
 id = 3047746641 # The Hidden: I.R.I.S Edition
