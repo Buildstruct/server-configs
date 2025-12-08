@@ -4,37 +4,32 @@ title = "Monster Mash"
 gamemode = "monstermash"
 host_workshop_collection = 3617554051
 
-[[collections]]
-id = 3617554051
-title = "Gamestruct - Monster Mash"
-description = "Server content for Gamestruct."
-
-[[collections.items]]
+[[addons]]
 id = 1541525700 # Monster Mash
 
-[[collections.items]]
+[[addons]]
 id = 1528995135
 maps = ["mm_harvest_v1", "mm_harvest_night"]
 
-[[collections.items]]
+[[addons]]
 id = 1538691772
 maps = ["mm_village"]
 
-[[collections.items]]
+[[addons]]
 id = 1892856292
 maps = ["mm_swamp"]
 
-[[collections.items]]
+[[addons]]
 id = 2245065453
 maps = ["mm_rot"]
 
-[[collections.items]]
+[[addons]]
 id = 3054101759
 maps = ["mm_excrescentia_final"]
 
-[[collections.items]]
+[[addons]]
 id = 3596629218
 maps = ["mm_trickery_final"]
 
-[[collections.items]]
+[[addons]]
 id = 2977785840 # Clientside Hitreg

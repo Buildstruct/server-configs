@@ -5,7 +5,6 @@ gamemode = "jazztronauts"
 map = "jazz_bar"
 
 [[addons]]
-type = "github"
 folder = "jazztronauts"
 url = "https://github.com/SageJFox/jazztronauts.git"
 branch = "sceneroots"

@@ -4,7 +4,6 @@ title = "Nine Tenths"
 gamemode = "910"
 
 [[addons]]
-type = "github"
 folder = "910"
 url = "https://github.com/figardo/910.git"
 branch = "main"

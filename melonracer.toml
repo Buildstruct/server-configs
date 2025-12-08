@@ -4,7 +4,6 @@ title = "MelonRacer"
 gamemode = "melonracer"
 
 [[addons]]
-type = "github"
 folder = "melonracer"
 url = "https://github.com/figardo/MelonRacer.git"
 branch = "main"

@@ -5,45 +5,32 @@ gamemode = "sandbox"
 map = "gm_buildstruct"
 host_workshop_collection = 1234567890
 
-maps = []
-
 [[addons]]
-type = "github"
 folder = "buildstruct-custom-content"
 url = "https://github.com/Buildstruct/buildstruct-custom-content.git"
 branch = "main"
 
 [[addons]]
-type = "github"
 folder = "wire"
 url = "https://github.com/Buildstruct/wire.git"
 branch = "master"
 
 [[addons]]
-type = "github"
 folder = "starfallex"
 url = "https://github.com/Buildstruct/StarfallEx.git"
 branch = "master"
 
 [[addons]]
-type = "github"
 folder = "pac3"
 url = "https://github.com/Buildstruct/pac3.git"
 branch = "develop"
 
 [[addons]]
-type = "github"
 folder = "acf3"
 url = "https://github.com/Buildstruct/ACF-3.git"
 branch = "master"
 
 [[addons]]
-type = "github"
 folder = "acf3missiles"
 url = "https://github.com/Buildstruct/ACF-3-Missiles.git"
 branch = "master"
-
-[[collections]]
-id = 1234567890
-title = "Buildstruct Server Content"
-description = "Server content for Buildstruct."

@@ -9,40 +9,28 @@ maxplayers = 32 # the max player slots
 host_workshop_collection = 1234567890 # the workshop collection used by the server
 
 # list of available maps
-# this is merged with all maps keys below so duplication of values is not necessary (maps, addons[i].maps, collections[i].items[i].maps)
+# this is merged with all maps keys below so duplication of values is not necessary (maps, addons[i].maps)
 # this is not used by the server setup, it is useful if you need a list of maps and want it organized by addon/item
 maps = [
 	"gm_construct",
 	"gm_flatgrass",
 ]
 
-# list of folder addons that will be placed in garrysmod/addons
+# github addon that will be cloned
 [[addons]]
-type = "github"
 folder = "wire" # garrysmod/addons/wire
 url = "https://github.com/Buildstruct/wire.git"
 branch = "master" # only this branch will be cloned (if this is not set, all branches will be cloned and the default will be selected)
 
+# workshop addon that will be downloaded
 [[addons]]
-type = "other"
-folder = "custom"
-
-# list of workshop collections that will be synced
-[[collections]]
-id = 1234567890
-title = "My Cool Server Content"
-description = "Server content for my cool server."
-linked = [9876543210] # link other collections to this collection
-
-# list of workshop items in the collection (order will be kept)
-[[collections.items]]
 id = 105982362
 maps = ["gm_bigcity"]
 
-[[collections.items]]
+[[addons]]
 id = 815782148
 maps = ["gm_bigcity_improved"]
 
-[[collections.items]]
+[[addons]]
 id = 123277559 # Nyan Gun
 download = true # mark this item to be automatically downloaded by clients

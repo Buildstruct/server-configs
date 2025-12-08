@@ -4,12 +4,7 @@ title = "The Hidden: I.R.I.S Edition"
 gamemode = "thehiddenirisedition"
 host_workshop_collection = 3617540717
 
-[[collections]]
-id = 3617540717
-title = "Gamestruct - The Hidden: I.R.I.S Edition"
-description = "Server content for Gamestruct."
-
-[[collections.items]]
+[[addons]]
 id = 3047746641 # The Hidden: I.R.I.S Edition
 maps = [
 	"hdn_apartment",
@@ -44,5 +39,5 @@ maps = [
 	"hdn_watershed_b3_hotfix",
 ]
 
-[[collections.items]]
+[[addons]]
 id = 2977785840 # Clientside Hitreg
