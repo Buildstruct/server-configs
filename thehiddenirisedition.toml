@@ -37,6 +37,3 @@ maps = [
 	"hdn_veikko",
 	"hdn_watershed_b3_hotfix",
 ]
-
-[[addons]]
-id = 2977785840 # Clientside Hitreg
