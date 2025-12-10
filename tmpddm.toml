@@ -5,7 +5,7 @@ gamemode = "tmpddm"
 map = "gm_bigcity"
 
 [[addons]]
-folder = "tmpddm"
+folder = "tmpddm/gamemodes/tmpddm"
 url = "https://github.com/TomatoCo/tmpddm.git"
 branch = "master"
 

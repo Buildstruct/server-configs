@@ -5,6 +5,6 @@ gamemode = "lambda"
 map = "d1_trainstation_01"
 
 [[addons]]
-folder = "lambda"
+folder = "lambda/gamemodes/lambda"
 url = "https://github.com/GMLambda/Lambda.git"
 branch = "develop"
