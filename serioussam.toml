@@ -1,0 +1,75 @@
+title = "Serious Sam Deathmatch"
+
+[server]
+gamemode = "serioussam_dm" # there is also serioussam_tdm for team deathmatch
+
+[[addons]]
+id = 3127352943 # Serious Sam Deathmatch
+
+[[addons]]
+id = 258523980 # Serious Sam SWEPs
+download = true
+
+[[addons]]
+id = 718492479 # Serious Sam Pickup Entities
+download = true
+
+[[addons]]
+id = 262062192 # Serious Sam Playermodels
+download = true
+
+[[addons]]
+id = 3127343509
+maps = ["sdm_desert_temple"]
+
+[[addons]]
+id = 3378630678
+maps = ["sdmw_winter_temple"]
+
+[[addons]]
+id = 3130940301
+maps = ["sdm_brkeen_chevap"]
+
+[[addons]]
+id = 3379979497
+maps = ["sdmw_xmas_chevap"]
+
+[[addons]]
+id = 3135599199
+maps = ["sdm_little_trouble"]
+
+[[addons]]
+id = 3384235035
+maps = ["sdmw_little_winter"]
+
+[[addons]]
+id = 3176460236
+maps = ["sdm_sun_palace"]
+
+[[addons]]
+id = 3211306715
+maps = ["sdm_red_station"]
+
+[[addons]]
+id = 3235959141
+maps = ["sdm_lost_tomb"]
+
+[[addons]]
+id = 3260588347
+maps = ["sdm_hole_classic"]
+
+[[addons]]
+id = 3286343563
+maps = ["stdm_crystal_march"]
+
+[[addons]]
+id = 3445595122
+maps = ["sdm_the_fortress"]
+
+[[addons]]
+id = 3504302295
+maps = ["sdm_yoddler_classic"]
+
+[[addons]]
+id = 3594234194
+maps = ["sdm_skulls_bones"]
