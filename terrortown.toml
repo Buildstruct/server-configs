@@ -1,0 +1,59 @@
+title = "Trouble in Terrorist Town"
+
+[server]
+gamemode = "terrortown" # already included with garrysmod
+
+### maps ###
+
+[[addons]]
+id = 159321088
+maps = ["ttt_minecraft_b5"]
+
+[[addons]]
+id = 157420728
+maps = ["ttt_waterworld"]
+
+[[addons]]
+id = 106498411
+maps = ["ttt_mc_skyislands"]
+
+[[addons]]
+id = 281454209
+maps = ["ttt_clue_se"]
+
+[[addons]]
+id = 295897079
+maps = ["ttt_lego"]
+
+[[addons]]
+id = 253297309
+maps = ["ttt_airbus_b3"]
+
+[[addons]]
+id = 534491717
+maps = ["ttt_rooftops_2016_v1"]
+
+[[addons]]
+id = 186842624
+maps = ["ttt_minecraftcity_v4"]
+
+[[addons]]
+id = 131667838
+maps = ["ttt_community_bowling_v5a"]
+
+[[addons]]
+id = 183797802
+maps = ["ttt_island_2013"]
+
+[[addons]]
+id = 867635838
+maps = ["ttt_grovestreet_a13"]
+
+[[addons]]
+id = 253328815
+maps = ["ttt_skyscraper"]
+
+### extras ###
+
+[[addons]]
+id = 2977785840 # Clientside Hitreg
