@@ -12,3 +12,6 @@ branch = "master"
 [[addons]]
 id = 105982362
 maps = ["gm_bigcity"]
+
+[[addons]]
+id = 2977785840 # Clientside Hitreg

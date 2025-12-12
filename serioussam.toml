@@ -18,6 +18,8 @@ download = true
 id = 262062192 # Serious Sam Playermodels
 download = true
 
+### maps ###
+
 [[addons]]
 id = 3127343509
 maps = ["sdm_desert_temple"]
@@ -73,3 +75,8 @@ maps = ["sdm_yoddler_classic"]
 [[addons]]
 id = 3594234194
 maps = ["sdm_skulls_bones"]
+
+### extras ###
+
+[[addons]]
+id = 2977785840 # Clientside Hitreg
