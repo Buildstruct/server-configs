@@ -20,6 +20,10 @@ maps = [
 ]
 
 [[addons]]
+id = 1390687051
+maps = ["q3dm6"]
+
+[[addons]]
 id = 3317013513 # Quake 2 Maps
 maps = [
 	"q2_base1",
