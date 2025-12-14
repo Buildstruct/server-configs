@@ -8,3 +8,4 @@ map = "d1_trainstation_01"
 folder = "lambda/gamemodes/lambda"
 url = "https://github.com/GMLambda/Lambda.git"
 branch = "develop"
+gamemodes = ["lambda"]

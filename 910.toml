@@ -7,6 +7,7 @@ gamemode = "910"
 folder = "910"
 url = "https://github.com/figardo/910.git"
 branch = "main"
+gamemodes = ["910"]
 maps = [
 	"910_4land",
 	"910_compound",

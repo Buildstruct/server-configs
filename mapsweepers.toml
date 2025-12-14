@@ -13,6 +13,7 @@ maps = [
 folder = "mapsweepers"
 url = "https://github.com/MerekiDor/mapsweepers.git"
 branch = "main"
+gamemodes = ["mapsweepers"]
 
 [[addons]]
 folder = "mapsweepers-extras"

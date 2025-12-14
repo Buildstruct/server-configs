@@ -5,6 +5,7 @@ gamemode = "thehiddenirisedition"
 
 [[addons]]
 id = 3047746641 # The Hidden: I.R.I.S Edition
+gamemodes = ["thehiddenirisedition"]
 maps = [
 	"hdn_apartment",
 	"hdn_deadmeatb4b",

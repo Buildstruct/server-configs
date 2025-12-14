@@ -1,10 +1,11 @@
 title = "Quake III Arena"
 
 [server]
-gamemode = "q3ffa" # there is also q3tdm for team deathmatch
+gamemode = "q3ffa"
 
 [[addons]]
 id = 160207505 # Quake 3
+gamemodes = ["q3ffa", "q3tdm"]
 maps = [
 	"q3_bloodrun",
 	"q3dm1",

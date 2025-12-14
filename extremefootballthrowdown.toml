@@ -7,6 +7,7 @@ gamemode = "extremefootballthrowdown"
 folder = "extremefootballthrowdown"
 url = "https://github.com/JetBoom/extremefootballthrowdown.git"
 branch = "master"
+gamemodes = ["extremefootballthrowdown"]
 
 [[addons]]
 id = 244859331 # Extreme Football Throwdown Map Pack

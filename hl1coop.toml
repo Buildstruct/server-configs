@@ -6,6 +6,7 @@ map = "hls00amrl"
 
 [[addons]]
 id = 1590755372 # Half-Life Co-op
+gamemodes = ["hl1coop"]
 
 [[addons]]
 id = 971893221 # Half-Life Resized Maps

@@ -8,3 +8,4 @@ map = "jazz_bar"
 folder = "jazztronauts"
 url = "https://github.com/SageJFox/jazztronauts.git"
 branch = "sceneroots"
+gamemodes = ["jazztronauts"]

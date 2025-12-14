@@ -8,6 +8,7 @@ map = "sc_lobby"
 folder = "slashco"
 url = "https://github.com/Mantibro/SlashCo.git"
 branch = "beta"
+gamemodes = ["slashco"]
 maps = ["sc_lobby"]
 
 [[addons]]

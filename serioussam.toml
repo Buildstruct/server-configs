@@ -1,10 +1,11 @@
 title = "Serious Sam Deathmatch"
 
 [server]
-gamemode = "serioussam_dm" # there is also serioussam_tdm for team deathmatch
+gamemode = "serioussam_dm"
 
 [[addons]]
 id = 3127352943 # Serious Sam Deathmatch
+gamemodes = ["serioussam_dm", "serioussam_tdm"]
 
 [[addons]]
 id = 258523980 # Serious Sam SWEPs
