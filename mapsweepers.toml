@@ -117,6 +117,11 @@ id = 1988531993 # gm_vj_cityatwar navmesh
 ### extras ###
 
 [[addons]]
+folder = "m9k"
+url = "https://github.com/CFC-Servers/m9k_monorepo.git"
+branch = "main"
+
+[[addons]]
 id = 2977785840 # Clientside Hitreg
 
 [[addons]]
@@ -137,22 +142,6 @@ download = true
 
 [[addons]]
 id = 827320827 # M1A0 Cat Gun
-download = true
-
-[[addons]]
-id = 128089118 # M9K Assault Rifles
-download = true
-
-[[addons]]
-id = 128091208 # M9K Heavy Weapons
-download = true
-
-[[addons]]
-id = 128093075 # M9K Small Arms
-download = true
-
-[[addons]]
-id = 3208351074 # M9K Specialties [Fixed]
 download = true
 
 [[addons]]
