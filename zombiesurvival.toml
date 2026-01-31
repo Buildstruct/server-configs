@@ -1,0 +1,89 @@
+title = "Zombie Survival"
+
+[server]
+gamemode = "zombiesurvival"
+
+[[addons]]
+folder = "zombiesurvival/gamemodes/zombiesurvival"
+url = "https://github.com/Xalalau/Zombie-Survival-v1.11-Fix.git"
+branch = "main"
+
+[[addons]]
+id = 3278214930 # ZS v1.11 Map Pack
+download = true
+maps = [
+	"zs_afterseven_b",
+	"zs_alexg_motel_v2",
+	"zs_ancient_castle_opt",
+	"zs_ascent",
+	"zs_aztec_v2",
+	"zs_bog_pubremakev1",
+	"zs_bog_shityhouse",
+	"zs_bunkerhouse",
+	"zs_buntshot",
+	"zs_cave_b3",
+	"zs_citadel_b4",
+	"zs_clav_inverse",
+	"zs_clav_maze",
+	"zs_clav_wall",
+	"zs_coasthouse",
+	"zs_deadblock_v2",
+	"zs_embassy",
+	"zs_fen",
+	"zs_fortress",
+	"zs_gu_frostbite_v2",
+	"zs_hebbe_f3",
+	"zs_house_number_23",
+	"zs_house_outbreak_b2",
+	"zs_imashouse_b2",
+	"zs_jail_v1",
+	"zs_lakefront_alpha",
+	"zs_lila_panic_v3",
+	"zs_mall_dl",
+	"zs_motel_b4",
+	"zs_nastierhouse_v3",
+	"zs_nastiesthouse_v3",
+	"zs_nastyhouse_v3",
+	"zs_nastyvillage",
+	"zs_overandunderground_v2",
+	"zs_panic_house_v2",
+	"zs_paradise4b",
+	"zs_placid",
+	"zs_plague_v2",
+	"zs_please",
+	"zs_port_v5",
+	"zs_prc_wurzel_v2",
+	"zs_pub",
+	"zs_raunchierhouse_v2",
+	"zs_raunchiesthouse",
+	"zs_raunchyhouse_v3",
+	"zs_residentevil2v2",
+	"zs_sewers_b8",
+	"zs_shithole",
+	"zs_silenthill_b2",
+	"zs_snow",
+	"zs_stormier_v1",
+	"zs_termites_v2",
+	"zs_the_pub_beta1",
+	"zs_thevillage",
+	"zs_tigcrik",
+	"zs_tomshouse",
+	"zs_tug_hut",
+	"zs_uglyfort",
+	"zs_urbandecay2",
+	"zs_ventilation",
+	"zs_villagehouse",
+	"zs_vitron_f9",
+	"zs_vulture_final",
+	"zs_woodhouse_rain",
+	"zs_ziggurat-v1",
+	"zs_zincoshine_v2",
+	"zs_zombiesonaplane_beta",
+]
+
+[[addons]]
+id = 3278214014 # ZS v1.11 CSS Weapons Replacement
+download = true
+
+[[addons]]
+id = 3285251001 # ZS v1.11 Mapvote
