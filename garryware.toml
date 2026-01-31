@@ -1,0 +1,16 @@
+title = "GarryWare"
+
+[server]
+gamemode = "garryware13"
+map = "wa_harmonics_b1"
+
+[[addons]]
+folder = "garryware/gamemodes/garryware13"
+url = "https://github.com/Thadah/GarryWare13.git"
+branch = "main"
+maps = ["wa_harmonics_b1"]
+
+[[addons]]
+folder = "fretta"
+url = "https://github.com/JetBoom/fretta13.git"
+branch = "master"
