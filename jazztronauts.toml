@@ -9,3 +9,7 @@ folder = "jazztronauts"
 url = "https://github.com/SageJFox/jazztronauts.git"
 branch = "sceneroots"
 gamemodes = ["jazztronauts"]
+
+[[addons]] # Wowozela
+id = 108170491
+download = true
