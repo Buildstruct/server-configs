@@ -71,10 +71,6 @@ maps = ["gm_marsh"]
 id = 3026921669 # gm_marsh navmesh
 
 [[addons]]
-id = 2821234125
-maps = ["gm_obselisk"]
-
-[[addons]]
 id = 3020385572
 maps = ["gm_oxidation"]
 
@@ -113,6 +109,42 @@ maps = ["gm_vj_cityatwar"]
 
 [[addons]]
 id = 1988531993 # gm_vj_cityatwar navmesh
+
+[[addons]]
+id = 3628431664
+maps = ["jcms_mango"]
+
+[[addons]]
+id = 3610020786
+maps = ["jcms_snowbound"]
+
+[[addons]]
+id = 3634145659
+maps = ["jcms_abandoned_mall_v14"]
+
+[[addons]]
+id = 3621006857
+maps = ["jcms_blackmesa_sigma_v2"]
+
+[[addons]]
+id = 3624546019
+maps = ["jcms_deadcity"]
+
+[[addons]]
+id = 2619660952
+maps = ["gm_mallparking"]
+
+[[addons]]
+id = 2885875980
+maos = ["rp_downtown_tits_v2"]
+
+[[addons]]
+id = 2722750107
+maps = ["gm_hhgregg"]
+
+[[addons]]
+id = 3478240689
+maps = ["gm_adit"]
 
 ### extras ###
 
