@@ -5,9 +5,7 @@ gamemode = "jazztronauts"
 map = "jazz_bar"
 
 [[addons]]
-folder = "jazztronauts"
-url = "https://github.com/Foohy/jazztronauts.git"
-branch = "master"
+id = "1452613192" # Jazztronauts
 gamemodes = ["jazztronauts"]
 
 [[addons]] # Wowozela
