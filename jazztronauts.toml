@@ -5,7 +5,7 @@ gamemode = "jazztronauts"
 map = "jazz_bar"
 
 [[addons]]
-id = "1452613192" # Jazztronauts
+id = 1452613192 # Jazztronauts
 gamemodes = ["jazztronauts"]
 
 [[addons]] # Wowozela
