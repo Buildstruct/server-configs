@@ -8,6 +8,7 @@ map = "wa_harmonics_b1"
 folder = "garryware/gamemodes/garryware13"
 url = "https://github.com/Thadah/GarryWare13.git"
 branch = "main"
+gamemodes = ["garryware13"]
 maps = ["wa_harmonics_b1"]
 
 [[addons]]

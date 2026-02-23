@@ -7,3 +7,4 @@ gamemode = "sacrifun"
 folder = "sacrifun"
 url = "https://github.com/Zet0rz/Sacrifun.git"
 branch = "master"
+gamemodes = ["sacrifun"]
