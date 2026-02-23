@@ -10,7 +10,7 @@ branch = "master"
 gamemodes = ["extremefootballthrowdown"]
 
 [[addons]]
-id = 244859331 # Extreme Football Throwdown Map Pack
+id = 244859331 # Extreme Football Throwdown Maps Pack 1
 maps = [
 	"eft_albino",
 	"eft_big_metal03r1",
@@ -32,13 +32,62 @@ maps = [
 ]
 
 [[addons]]
-id = 189289375
-maps = ["xft_skyteenagers_spartv"]
+id = 430049351 # Extreme Football Throwdown Maps Pack 2
+maps = [
+	"eft_aether_v1",
+	"eft_big_daddys_lair",
+	"eft_junglefever_r1_fix1",
+	"eft_magma_field_v5",
+	"eft_neontempest_v4",
+	"eft_omaha_a1",
+	"eft_skylight",
+	"eft_unreality_r1",
+]
+
+[[addons]]
+id = 520673078
+maps = ["eft_bahama_beatdown_v1"]
+
+[[addons]]
+id = 422966679
+maps = ["eft_baseballdash_v2"]
+
+[[addons]]
+id = 447986526
+maps = ["eft_cosmic_arena_v1r2"]
+
+[[addons]]
+id = 520668761
+maps = ["eft_gauntlet_v1"]
+
+[[addons]]
+id = 591399101
+maps = ["eft_genesis_v2"]
+
+[[addons]]
+id = 493032732
+maps = ["eft_hexa_v5"]
+
+[[addons]]
+id = 522586945
+maps = ["eft_legoland_v1"]
+
+[[addons]]
+id = 469757166
+maps = ["eft_oasis_v2"]
+
+[[addons]]
+id = 390102109
+maps = ["eft_slamdunk_v3"]
+
+[[addons]]
+id = 522577710
+maps = ["eft_spacejam_v1"]
 
 [[addons]]
 id = 579589507
 maps = ["eft_streetball_v6"]
 
 [[addons]]
-id = 493032732
-maps = ["eft_hexa_v5"]
+id = 189289375
+maps = ["xft_skyteenagers_spartv"]
