@@ -60,8 +60,8 @@ maps = ["gm_lair"]
 id = 3423704682 # gm_lair navmesh
 
 [[addons]]
-id = 3003051292
-maps = ["gm_liminal_space"]
+id = 2292463449
+maps = ["gm_grottopolis"]
 
 [[addons]]
 id = 878761545
