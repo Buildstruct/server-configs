@@ -64,13 +64,6 @@ id = 2292463449
 maps = ["gm_grottopolis"]
 
 [[addons]]
-id = 878761545
-maps = ["gm_marsh"]
-
-[[addons]]
-id = 3026921669 # gm_marsh navmesh
-
-[[addons]]
 id = 3020385572
 maps = ["gm_oxidation"]
 
@@ -129,6 +122,10 @@ maps = ["jcms_blackmesa_sigma_v2"]
 [[addons]]
 id = 3624546019
 maps = ["jcms_deadcity"]
+
+[[addons]]
+id = 3690599125
+maps = ["jcms_downpour"]
 
 [[addons]]
 id = 2619660952
