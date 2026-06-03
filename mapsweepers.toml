@@ -151,9 +151,6 @@ url = "https://github.com/CFC-Servers/m9k_monorepo.git"
 branch = "main"
 
 [[addons]]
-id = 2977785840 # Clientside Hitreg
-
-[[addons]]
 id = 349050451 # Chuck's Weaponry 2.0
 download = true
 

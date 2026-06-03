@@ -76,9 +76,6 @@ branch = "master"
 id = 151583504 # MapVote
 
 [[addons]]
-id = 2977785840 # Clientside Hitreg
-
-[[addons]]
 id = 1517464837 # Cigarette
 download = true
 

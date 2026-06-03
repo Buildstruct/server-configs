@@ -46,6 +46,3 @@ maps = ["sc_downtown_v2"]
 [[addons]]
 id = 3432479487
 maps = ["sc_insertion2"]
-
-[[addons]]
-id = 2977785840 # Clientside Hitreg

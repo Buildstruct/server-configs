@@ -30,6 +30,3 @@ maps = ["mm_excrescentia_final"]
 [[addons]]
 id = 3596629218
 maps = ["mm_trickery_final"]
-
-[[addons]]
-id = 2977785840 # Clientside Hitreg

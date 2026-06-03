@@ -33,8 +33,3 @@ download = true
 [[addons]]
 id = 262062192 # Serious Sam Playermodels
 download = true
-
-### extras ###
-
-[[addons]]
-id = 2977785840 # Clientside Hitreg

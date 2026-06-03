@@ -31,6 +31,3 @@ maps = [
 	"q2dm1",
 	"q2dm2",
 ]
-
-[[addons]]
-id = 2977785840 # Clientside Hitreg
