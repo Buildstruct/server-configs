@@ -1,0 +1,11 @@
+title = "The Lobby"
+
+[server]
+gamemode = "gamestruct"
+map = "gm_construct"
+
+[[addons]]
+folder = "gamestruct"
+url = "https://github.com/Buildstruct/gamestruct.git"
+branch = "main"
+gamemodes = ["gamestruct"]
