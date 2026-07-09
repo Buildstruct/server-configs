@@ -8,25 +8,19 @@ id = 1541525700 # Monster Mash
 gamemodes = ["monstermash"]
 
 [[addons]]
-id = 1528995135
-maps = ["mm_harvest_v1", "mm_harvest_night"]
+id = 1528995135 # mm_harvest_v1, mm_harvest_night
 
 [[addons]]
-id = 1538691772
-maps = ["mm_village"]
+id = 1538691772 # mm_village
 
 [[addons]]
-id = 1892856292
-maps = ["mm_swamp"]
+id = 1892856292 # mm_swamp
 
 [[addons]]
-id = 2245065453
-maps = ["mm_rot"]
+id = 2245065453 # mm_rot
 
 [[addons]]
-id = 3054101759
-maps = ["mm_excrescentia_final"]
+id = 3054101759 # mm_excrescentia_final
 
 [[addons]]
-id = 3596629218
-maps = ["mm_trickery_final"]
+id = 3596629218 # mm_trickery_final

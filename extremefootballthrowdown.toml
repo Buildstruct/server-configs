@@ -11,83 +11,42 @@ gamemodes = ["extremefootballthrowdown"]
 
 [[addons]]
 id = 244859331 # Extreme Football Throwdown Maps Pack 1
-maps = [
-	"eft_albino",
-	"eft_big_metal03r1",
-	"eft_bloodbowlb",
-	"eft_brokenbonesbridge_v1fix",
-	"eft_castle_warfare",
-	"eft_chamber",
-	"eft_coconutclub_01",
-	"eft_handegg",
-	"eft_minecraftv2fixed",
-	"eft_sky_metal_beta3",
-	"eft_skystep_v3",
-	"eft_soccer_b1",
-	"eft_spacejump_b2",
-	"eft_temple_sacrifice_rc",
-	"eft_tunnel",
-	"eft_turbines_v2",
-	"xft_skyline_v2",
-]
 
 [[addons]]
 id = 430049351 # Extreme Football Throwdown Maps Pack 2
-maps = [
-	"eft_aether_v1",
-	"eft_big_daddys_lair",
-	"eft_junglefever_r1_fix1",
-	"eft_magma_field_v5",
-	"eft_neontempest_v4",
-	"eft_omaha_a1",
-	"eft_skylight",
-	"eft_unreality_r1",
-]
 
 [[addons]]
-id = 520673078
-maps = ["eft_bahama_beatdown_v1"]
+id = 520673078 # eft_bahama_beatdown_v1
 
 [[addons]]
-id = 422966679
-maps = ["eft_baseballdash_v2"]
+id = 422966679 # eft_baseballdash_v2
 
 [[addons]]
-id = 447986526
-maps = ["eft_cosmic_arena_v1r2"]
+id = 447986526 # eft_cosmic_arena_v1r2
 
 [[addons]]
-id = 520668761
-maps = ["eft_gauntlet_v1"]
+id = 520668761 # eft_gauntlet_v1
 
 [[addons]]
-id = 591399101
-maps = ["eft_genesis_v2"]
+id = 591399101 # eft_genesis_v2
 
 [[addons]]
-id = 493032732
-maps = ["eft_hexa_v5"]
+id = 493032732 # eft_hexa_v5
 
 [[addons]]
-id = 522586945
-maps = ["eft_legoland_v1"]
+id = 522586945 # eft_legoland_v1
 
 [[addons]]
-id = 469757166
-maps = ["eft_oasis_v2"]
+id = 469757166 # eft_oasis_v2
 
 [[addons]]
-id = 390102109
-maps = ["eft_slamdunk_v3"]
+id = 390102109 # eft_slamdunk_v3
 
 [[addons]]
-id = 522577710
-maps = ["eft_spacejam_v1"]
+id = 522577710 # eft_spacejam_v1
 
 [[addons]]
-id = 579589507
-maps = ["eft_streetball_v6"]
+id = 579589507 # eft_streetball_v6
 
 [[addons]]
-id = 189289375
-maps = ["xft_skyteenagers_spartv"]
+id = 189289375 # xft_skyteenagers_spartv

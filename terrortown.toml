@@ -6,64 +6,49 @@ gamemode = "terrortown" # already included with garrysmod
 ### maps ###
 
 [[addons]]
-id = 159321088
-maps = ["ttt_minecraft_b5"]
+id = 159321088 # ttt_minecraft_b5
 
 [[addons]]
-id = 157420728
-maps = ["ttt_waterworld"]
+id = 157420728 # ttt_waterworld
 
 [[addons]]
-id = 106498411
-maps = ["ttt_mc_skyislands"]
+id = 106498411 # ttt_mc_skyislands
 
 [[addons]]
-id = 281454209
-maps = ["ttt_clue_se"]
+id = 281454209 # ttt_clue_se
 
 [[addons]]
-id = 295897079
-maps = ["ttt_lego"]
+id = 295897079 # ttt_lego
 
 [[addons]]
-id = 253297309
-maps = ["ttt_airbus_b3"]
+id = 253297309 # ttt_airbus_b3
 
 [[addons]]
-id = 534491717
-maps = ["ttt_rooftops_2016_v1"]
+id = 534491717 # ttt_rooftops_2016_v1
 
 [[addons]]
-id = 186842624
-maps = ["ttt_minecraftcity_v4"]
+id = 186842624 # ttt_minecraftcity_v4
 
 [[addons]]
-id = 131667838
-maps = ["ttt_community_bowling_v5a"]
+id = 131667838 # ttt_community_bowling_v5a
 
 [[addons]]
-id = 183797802
-maps = ["ttt_island_2013"]
+id = 183797802 # ttt_island_2013
 
 [[addons]]
-id = 867635838
-maps = ["ttt_grovestreet_a13"]
+id = 867635838 # ttt_grovestreet_a13
 
 [[addons]]
-id = 253328815
-maps = ["ttt_skyscraper"]
+id = 253328815 # ttt_skyscraper
 
 [[addons]]
-id = 2472169279
-maps = ["ttt_airship_toppat"]
+id = 2472169279 # ttt_airship_toppat
 
 [[addons]]
-id = 1475589106
-maps = ["ttt_bikinibottom"]
+id = 1475589106 # ttt_bikinibottom
 
 [[addons]]
-id = 624717817
-maps = ["ttt_pcworld95"]
+id = 624717817 # ttt_pcworld95
 
 ### extras ###
 

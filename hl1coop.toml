@@ -10,29 +10,6 @@ gamemodes = ["hl1coop"]
 
 [[addons]]
 id = 971893221 # Half-Life Resized Maps
-maps = [
-	"hls00amrl",
-	"hls01amrl",
-	"hls02amrl",
-	"hls03amrl",
-	"hls04amrl",
-	"hls05amrl",
-	"hls06amrl",
-	"hls07amrl",
-	"hls07bmrl",
-	"hls08amrl",
-	"hls09amrl",
-	"hls10amrl",
-	"hls11amrl",
-	"hls11bmrl",
-	"hls11cmrl",
-	"hls12amrl",
-	"hls13amrl",
-	"hls14amrl",
-	"hls14bmrl",
-	"hls14cmrl",
-	"hls_hc",
-]
 
 [[addons]]
 id = 1360233031 # Half-Life SWEPS

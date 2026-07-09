@@ -8,12 +8,3 @@ folder = "melonracer"
 url = "https://github.com/figardo/MelonRacer.git"
 branch = "main"
 gamemodes = ["melonracer"]
-maps = [
-	"gm_melonlockdown",
-	"gm_melonrace",
-	"melon_castle",
-	"melon_eight",
-	"melon_race_10",
-	"mr_redux",
-	"mr_test",
-]

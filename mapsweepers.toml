@@ -2,18 +2,16 @@ title = "Map Sweepers"
 
 [server]
 gamemode = "mapsweepers"
+map = "jcms_jcorpdistrict"
 
-maps = [
-	"gm_construct",
-	"jcms_jcorpdistrict",
-	"jcms_mafiadistrict",
-]
+maps = ["gm_construct"]
 
 [[addons]]
 folder = "mapsweepers"
 url = "https://github.com/MerekiDor/mapsweepers.git"
 branch = "main"
 gamemodes = ["mapsweepers"]
+maps = ["jcms_jcorpdistrict"]
 
 [[addons]]
 folder = "mapsweepers-extras"
@@ -26,122 +24,97 @@ id = 3555484822 # [Map Sweepers] Dedicated-Server-Extension
 ### maps ###
 
 [[addons]]
-id = 3418655530
-maps = ["gm_citygateway", "gm_citygateway_night"]
+id = 3418655530 # gm_citygateway, gm_citygateway_night
 
 [[addons]]
-id = 1647227674
-maps = ["gm_diprip_refinery"]
+id = 1647227674 # gm_diprip_refinery
 
 [[addons]]
-id = 2936813669
-maps = ["gm_born"]
+id = 2936813669 # gm_born
 
 [[addons]]
-id = 2793118426
-maps = ["gm_coast_bridge_prewar"]
+id = 2793118426 # gm_coast_bridge_prewar
 
 [[addons]]
-id = 156992404
-maps = ["gm_excess_island_night"]
+id = 156992404 # gm_excess_island_night
 
 [[addons]]
 id = 3451317468 # gm_excess_island_night navmesh
 
 [[addons]]
-id = 3355782499
-maps = ["gm_hillfoot_construct"]
+id = 3355782499 # gm_hillfoot_construct
 
 [[addons]]
-id = 104488112
-maps = ["gm_lair"]
+id = 104488112 # gm_lair
 
 [[addons]]
 id = 3423704682 # gm_lair navmesh
 
 [[addons]]
-id = 2292463449
-maps = ["gm_grottopolis"]
+id = 2292463449 # gm_grottopolis
 
 [[addons]]
-id = 3020385572
-maps = ["gm_oxidation"]
+id = 3020385572 # gm_oxidation
 
 [[addons]]
 id = 3020861395 # gm_oxidation navmesh
 
 [[addons]]
-id = 2880336126
-maps = ["gm_realpark_final3"]
+id = 2880336126 # gm_realpark_final3
 
 [[addons]]
 id = 3027825189 # gm_realpark_final3 navmesh
 
 [[addons]]
-id = 151544081
-maps = ["gm_shambles"]
+id = 151544081 # gm_shambles
 
 [[addons]]
 id = 3030972724 # gm_shambles navmesh
 
 [[addons]]
-id = 2964699758
-maps = ["gm_silicon_city"]
+id = 2964699758 # gm_silicon_city
 
 [[addons]]
-id = 3398021516
-maps = ["gm_shattered_reality"]
+id = 3398021516 # gm_shattered_reality
 
 [[addons]]
-id = 3503022666
-maps = ["gm_voidtown"]
+id = 3503022666 # gm_voidtown
 
 [[addons]]
-id = 1340990466
-maps = ["gm_vj_cityatwar"]
+id = 1340990466 # gm_vj_cityatwar
 
 [[addons]]
 id = 1988531993 # gm_vj_cityatwar navmesh
 
 [[addons]]
-id = 3628431664
-maps = ["jcms_mango"]
+id = 3628431664 # jcms_mango
 
 [[addons]]
-id = 3610020786
-maps = ["jcms_snowbound"]
+id = 3610020786 # jcms_snowbound
 
 [[addons]]
-id = 3634145659
-maps = ["jcms_abandoned_mall_v14"]
+id = 3634145659 # jcms_abandoned_mall_v14
 
 [[addons]]
-id = 3621006857
-maps = ["jcms_blackmesa_sigma_v2"]
+id = 3621006857 # jcms_blackmesa_sigma_v2
 
 [[addons]]
-id = 3624546019
-maps = ["jcms_deadcity"]
+id = 3624546019 # jcms_deadcity
 
 [[addons]]
-id = 3690599125
-maps = ["jcms_downpour"]
+id = 3690599125 # jcms_downpour
 
 [[addons]]
-id = 2619660952
-maps = ["gm_mallparking"]
+id = 2619660952 # gm_mallparking
 
 [[addons]]
-id = 2885875980
-maos = ["rp_downtown_tits_v2"]
+id = 2885875980 # rp_downtown_tits_v2
 
 [[addons]]
-id = 2722750107
-maps = ["gm_hhgregg"]
+id = 2722750107 # gm_hhgregg
 
 [[addons]]
-id = 3478240689
-maps = ["gm_adit"]
+id = 3478240689 # gm_adit
 
 ### extras ###
 

@@ -6,21 +6,6 @@ gamemode = "serioussam_dm"
 [[addons]]
 id = 3127352943 # Serious Sam Deathmatch
 gamemodes = ["serioussam_dm", "serioussam_tdm"]
-maps = [
-	"sdm_desert_temple",
-	"sdm_brkeen_chevap",
-	"sdm_little_trouble",
-	"sdm_sun_palace",
-	"sdm_red_station",
-	"sdm_lost_tomb",
-	"sdm_hole_classic",
-	"sdm_the_fortress",
-	"sdm_yoddler_classic",
-	"sdm_skulls_bones",
-#	"sdmw_winter_temple",
-#	"sdmw_xmas_chevap",
-#	"sdmw_little_winter",
-]
 
 [[addons]]
 id = 258523980 # Serious Sam SWEPs

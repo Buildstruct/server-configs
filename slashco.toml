@@ -12,37 +12,28 @@ gamemodes = ["slashco"]
 maps = ["sc_lobby"]
 
 [[addons]]
-id = 2844081496
-maps = ["sc_summercamp"]
+id = 2844081496 # sc_summercamp
 
 [[addons]]
-id = 2844082996
-maps = ["sc_highschool"]
+id = 2844082996 # sc_highschool
 
 [[addons]]
-id = 2856197297
-maps = ["sc_hospital"]
+id = 2856197297 # sc_hospital
 
 [[addons]]
-id = 2954492599
-maps = ["sc_redforest"]
+id = 2954492599 # sc_redforest
 
 [[addons]]
-id = 2981462975
-maps = ["sc_asylum"]
+id = 2981462975 # sc_asylum
 
 [[addons]]
-id = 3276058547
-maps = ["sc_trainingcenter"]
+id = 3276058547 # sc_trainingcenter
 
 [[addons]]
-id = 3296523451
-maps = ["sc_deadcity"]
+id = 3296523451 # sc_deadcity
 
 [[addons]]
-id = 3327358109
-maps = ["sc_downtown_v2"]
+id = 3327358109 # sc_downtown_v2
 
 [[addons]]
-id = 3432479487
-maps = ["sc_insertion2"]
+id = 3432479487 # sc_insertion2

@@ -11,5 +11,5 @@ branch = "master"
 gamemodes = ["tmpddm"]
 
 [[addons]]
-id = 105982362
+id = 105982362 # gm_bigcity
 maps = ["gm_bigcity"]
