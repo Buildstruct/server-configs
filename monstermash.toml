@@ -8,6 +8,9 @@ id = 1541525700 # Monster Mash
 gamemodes = ["monstermash"]
 
 [[addons]]
+id = 151583504 # MapVote
+
+[[addons]]
 id = 1528995135 # mm_harvest_v1, mm_harvest_night
 
 [[addons]]

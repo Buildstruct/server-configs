@@ -8,3 +8,6 @@ folder = "melonracer"
 url = "https://github.com/figardo/MelonRacer.git"
 branch = "main"
 gamemodes = ["melonracer"]
+
+[[addons]]
+id = 151583504 # MapVote
