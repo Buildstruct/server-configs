@@ -50,6 +50,9 @@ id = 1475589106 # ttt_bikinibottom
 [[addons]]
 id = 624717817 # ttt_pcworld95
 
+[[addons]]
+id = 1861982844 # ttt_the_button_a1
+
 ### extras ###
 
 [[addons]]
@@ -97,7 +100,7 @@ id = 648957314 # Homerun Bat
 download = true
 
 [[addons]]
-id = 3074845055 # Dead Ringer
+id = 254779132 # Dead Ringer
 download = true
 
 [[addons]]
