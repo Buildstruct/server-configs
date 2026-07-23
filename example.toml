@@ -1,35 +1,46 @@
-# nice name of the server config
+# Nice name of the config
 title = "My Cool Server"
 
-# actual server settings
+# Server options
 [server]
-gamemode = "sandbox" # the default gamemode
-map = "gm_flatgrass" # the default map
-maxplayers = 32 # the max player slots
+gamemode = "sandbox" # The gamemode (if not specified, the first gamemode found in the config will be used, or "sandbox" if there are none)
+map = "gm_flatgrass" # The map (useful for gamemodes that have a starting map or campaign maps; if not specified, a map will be chosen randomly)
 
-# list of available maps
-# this is merged with all maps keys below so duplication of values is not necessary (maps, addons[i].maps)
-# this is not used by the server setup, it is useful if you need a list of maps and want it organized by addon/item
+# List of available gamemodes
+# This is merged with all gamemodes added from addons so including them here is not necessary (gamemodes, addons[i].gamemodes)
+# This can be used to include maps the server should use but aren't from addons (this is not necessary if the gamemode is set in server options)
+gamemodes = [
+	"sandbox",
+	"terrortown",
+]
+
+# List of available maps
+# This is merged with all maps added from addons so including them here is not necessary (maps, addons[i].maps)
+# This can be used to include maps the server should use but aren't from addons (this is not necessary if the map is set in server options)
 maps = [
 	"gm_construct",
 	"gm_flatgrass",
 ]
 
-# github addon that will be cloned
+# An addon via Git
 [[addons]]
-folder = "wire" # garrysmod/addons/wire
+folder = "wire" # The folder the addon will be placed in from garrysmod/addons (supports multiple folder paths: foo/bar/baz; . and .. cannot be used)
 url = "https://github.com/Buildstruct/wire.git"
-branch = "master" # only this branch will be cloned (if this is not set, all branches will be cloned and the default will be selected)
+branch = "master" # Only this branch will be cloned (if not specified, all branches will be cloned and the default will be selected)
 
-# workshop addon that will be downloaded
+# An addon via Steam Workshop
 [[addons]]
-id = 105982362
-maps = ["gm_bigcity"]
-
-[[addons]]
-id = 815782148
-maps = ["gm_bigcity_improved"]
+id = 105982362 # gm_bigcity
 
 [[addons]]
 id = 123277559 # Nyan Gun
-download = true # mark this item to be automatically downloaded by clients
+download = true # Marks this workshop item to be auto-downloaded by clients (see below for when this should be used)
+
+# Each addon entry supports a `gamemodes` and `maps` field that will be auto-filled when the config is installed/updated on the server
+# (it is generally better to not fill these in yourself incase an addon changes the name of the gamemode or map in an update)
+
+# Workshop addons that add gamemodes or maps do not need `download = true` as the server will mark the currently active gamemode and map to be auto-downloaded by clients
+# (if it set then all clients must download the gamemode/map even if the server isn't on it)
+# (note: gamemodes that pack their own maps will require all maps to also be downloaded)
+
+# Git addons will only have assets auto-downloaded by clients by using `resource.AddWorkshop("<workshopid>")` or if its a gamemode by specifying a `workshopid` in the .txt
