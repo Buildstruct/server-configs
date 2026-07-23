@@ -51,6 +51,18 @@ id = 1475589106 # ttt_bikinibottom
 id = 624717817 # ttt_pcworld95
 
 [[addons]]
+id = 3450023523 # ttt_crossroads
+
+[[addons]]
+id = 2113659666 # ttt_simpsons
+
+[[addons]]
+id = 2217754806 # ttt_tokyodistrict
+
+[[addons]]
+id = 2168404864 # ttt_de_dolls_2008_v3_safe
+
+[[addons]]
 id = 1861982844 # ttt_the_button_a1
 
 ### extras ###
@@ -88,6 +100,14 @@ id = 254177214 # Jihad Bomb (Charred Corpse)
 download = true
 
 [[addons]]
+id = 3498038579 # Celebration Bomb
+download = true
+
+[[addons]]
+id = 2983839568 # Remote Sticky Bomb
+download = true
+
+[[addons]]
 id = 922342968 # Banana Bomb
 download = true
 
@@ -100,7 +120,7 @@ id = 648957314 # Homerun Bat
 download = true
 
 [[addons]]
-id = 254779132 # Dead Ringer
+id = 3074845055 # Dead Ringer
 download = true
 
 [[addons]]
@@ -117,4 +137,8 @@ download = true
 
 [[addons]]
 id = 2150978792 # Paper Plane
+download = true
+
+[[addons]]
+id = 913310851 # Beenade
 download = true
