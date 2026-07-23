@@ -26,7 +26,7 @@ id = 649176159 # ph_office_fsg_v2
 id = 233540367 # ph_gas_station
 
 [[addons]]
-id = 534693586 # ph_halloweenhouse
+id = 534693586 # ph_halloweenhouse_v3
 
 [[addons]]
 id = 1123567395 # ph_kakcasts
@@ -44,4 +44,4 @@ id = 2598342115 # ph_blessingstreet
 id = 377716750 # ph_clue_v2
 
 [[addons]]
-id = 251370401 # ph_kleiner
+id = 251370401 # ph_kleiner_v2
