@@ -1,0 +1,47 @@
+title = "Prop Hunt"
+
+[server]
+gamemode = "prop_hunt"
+
+[[addons]]
+id = 135509255 # Prop Hunt
+gamemodes = ["prop_hunt"]
+
+[[addons]]
+id = 186139871 # ph_restaurant
+
+[[addons]]
+id = 237152021 # ph_islandhouse
+
+[[addons]]
+id = 375116509 # ph_fancyhouse
+
+[[addons]]
+id = 3159839996 # ph_littlegarden
+
+[[addons]]
+id = 649176159 # ph_office_fsg_v2
+
+[[addons]]
+id = 233540367 # ph_gas_station
+
+[[addons]]
+id = 534693586 # ph_halloweenhouse
+
+[[addons]]
+id = 1123567395 # ph_kakcasts
+
+[[addons]]
+id = 1123262520 # ph_bikinibottom
+
+[[addons]]
+id = 729764004 # ph_fountain
+
+[[addons]]
+id = 2598342115 # ph_blessingstreet
+
+[[addons]]
+id = 377716750 # ph_clue_v2
+
+[[addons]]
+id = 251370401 # ph_kleiner
