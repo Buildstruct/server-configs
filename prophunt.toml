@@ -4,7 +4,7 @@ title = "Prop Hunt"
 gamemode = "prop_hunt"
 
 [[addons]]
-id = 135509255 # Prop Hunt
+id = 1758906555 # Prop Hunt: Enhanced
 gamemodes = ["prop_hunt"]
 
 [[addons]]
